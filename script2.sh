@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='172.105.250.34';
-USER='scvpnapp_umnormal';
-PASS='@@AlaMinbd27';
-DBNAME='scvpnapp_umnormal';
+USER='scvpnapp_viptunnel';
+PASS='@@@F1r3n3t';
+DBNAME='scvpnapp_viptunnel';
 
 install_require()
 {
